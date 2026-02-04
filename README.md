@@ -27,8 +27,11 @@ El dashboard permite visualizar:
 
 🚀 Cómo utilizar este repositorio
 Ejecutar el script SQLQuery_FINAL_STG_RRHH.sql para la ingesta inicial.
+
 Ejecutar SQLQuery_FINAL_ODS_RRHH.sql para la limpieza y transformación.
+
 Ejecutar SQLQuery_FINAL_BDS_RRHH.sql para generar el modelo dimensional.
 
-Abrir el archivo .pbix en Power BI Desktop para visualizar los reportes.
+Abrir el archivo .pbix en Power BI Desktop para visualizar el reporte.
+ 
 ---
