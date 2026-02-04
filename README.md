@@ -24,4 +24,11 @@ El dashboard permite visualizar:
 * **Gestión de Talento:** Distribución de salarios por empleado y área de trabajo.
 * **Operatividad:** Resumen de asistencias (Presente, Ausente, Sick) filtrable por ubicación y fechas.
 * **Insights de Negocio:** Se identifica que el área de Finanzas representa la mayor carga en la planilla, permitiendo a la gerencia evaluar la eficiencia de la inversión en capital humano por departamento
+
+🚀 Cómo utilizar este repositorio
+Ejecutar el script SQLQuery_FINAL_STG_RRHH.sql para la ingesta inicial.
+Ejecutar SQLQuery_FINAL_ODS_RRHH.sql para la limpieza y transformación.
+Ejecutar SQLQuery_FINAL_BDS_RRHH.sql para generar el modelo dimensional.
+
+Abrir el archivo .pbix en Power BI Desktop para visualizar los reportes.
 ---
