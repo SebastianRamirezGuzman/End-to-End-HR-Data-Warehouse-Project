@@ -17,6 +17,8 @@ El flujo de datos se divide en tres capas principales para asegurar la integrida
 
 ## 📊 Modelo de Datos
 Está organizada bajo una jerarquía lógica empresarial que refleja fielmente la estructura de una organización real. En lugar de tablas aisladas, utilicé un diseño interconectado donde los departamentos y puestos de trabajo alimentan directamente el perfil del colaborador, asegurando que cualquier cambio en la estructura organizacional se refleje automáticamente en los reportes de gestión
+<img width="1230" height="793" alt="Captura de pantalla 2026-02-05 185154" src="https://github.com/user-attachments/assets/c39b6ad6-1880-406d-a813-fece2976d160" />
+
 
 ## 📈 Dashboard de Insights
 El dashboard permite visualizar:
@@ -24,6 +26,8 @@ El dashboard permite visualizar:
 * **Gestión de Talento:** Distribución de salarios por empleado y área de trabajo.
 * **Operatividad:** Resumen de asistencias (Presente, Ausente, Sick) filtrable por ubicación y fechas.
 * **Insights de Negocio:** Se identifica que el área de Finanzas representa la mayor carga en la planilla, permitiendo a la gerencia evaluar la eficiencia de la inversión en capital humano por departamento
+<img width="1428" height="792" alt="Captura de pantalla 2026-02-05 184945" src="https://github.com/user-attachments/assets/f5c47ed8-204f-4cf5-b64b-6356616bb548" />
+
 
 🚀 Cómo utilizar este repositorio
 
